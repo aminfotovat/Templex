@@ -5,7 +5,6 @@ A lightweight Python tool to download and export static websites (HTML, CSS, JS,
 - Download all files related to a web page (HTML, CSS, JS, Images).
 - Preserves directory structure.
 - Filters external links and saves only internal resources.
-- Filters external links and saves only internal resources.
 - Colorful and attractive terminal interface.
 
 ## 🛠 Installation and setup
